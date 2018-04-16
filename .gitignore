@@ -1,2 +1,2 @@
 # ignore compiled binary files
-\.stack-work\*
+.stack-work\*
